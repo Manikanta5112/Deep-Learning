@@ -20,3 +20,8 @@ $ python sample.py 100
 ```
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
+
+To listen to the Music:
+``` copy the output and past on this web page
+https://www.abcjs.net/abcjs-editor.html
+```
